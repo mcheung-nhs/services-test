@@ -1995,6 +1995,14 @@ abbr[title] {
   position: static;
 }
 
+@media (max-width: 641px) {
+  .skiplinks--link:focus {
+    left:0;
+    position:absolute;
+    z-index:1;
+  }
+}
+
 /*
 
    Error styling, nabbed from govuk
