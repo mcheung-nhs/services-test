@@ -1995,7 +1995,7 @@ abbr[title] {
   position: static;
 }
 
-@media (max-width: 641px) {
+@media (max-width: 640px) {
   .skiplinks--link:focus {
     left:0;
     position:absolute;
