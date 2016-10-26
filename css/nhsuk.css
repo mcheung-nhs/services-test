@@ -1986,6 +1986,7 @@ abbr[title] {
 
 .skiplinks--link {
   color: #fff;
+  display: inline-block;
   left: -9999em;
   padding: 8px;
   position: absolute;
@@ -1994,7 +1995,6 @@ abbr[title] {
 .skiplinks--link:focus {
   background-color: #f2f8fc;
   border: 3px solid #ffb81c;
-  display:inline-block;
   outline: none;
   position: static;
 }
