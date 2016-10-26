@@ -1998,7 +1998,7 @@ abbr[title] {
 @media (max-width: 640px) {
   .skiplinks--link:focus {
     left:0;
-    position:relative;
+    position:absolute;
   }
 }
 
